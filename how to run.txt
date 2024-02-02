@@ -1,0 +1,4 @@
+1. first install node js
+2. go to project folder and  open command prompt
+3. type "npm install"
+4. typs "npm start"
